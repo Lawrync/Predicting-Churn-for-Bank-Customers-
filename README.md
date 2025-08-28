@@ -15,6 +15,25 @@ Major categories of features: Demographic Information Has Gender, Age, and Geogr
 Details of Account and Services They include Tenure as well as NumOfProducts with HasCrCard and IsActiveMember, which establishes that the presence of a customer is related to the service timeline.
 
 Financial Data Incorporates CreditScore, Balance, and EstimatedSalary that indicate the financial status of the customer and his/her potential.
+Target Variable
+
+Exited: A binary variable with one being the churned and zero remaining retained.
+
+The data set presents a reliable basis for determining reasons that lead to customer churn and can be used in coming up with predictive models to help enhance retention strategies.
+
+# Stakeholders
+The individuals and groups of people affected either directly or indirectly by the effects of this customer churn analysis are as follows:
+
+Executive Team-SmartBank This group will take care of strategy formulation decisions and will employ insights on churn to come up with customer retention policies and resource deployment in terms of intervention strategies.
+
+Data Science & Analytics Unit As a senior data scientist, Li leads this team to monitor the modeling process and will use the ready data set and the results to create and implement the predictive churn model.
+
+Teams: Marketing, Customer Retention Such teams will be dependent on the output of the model to create and execute specific campaigns focused on the vulnerable categories of customers.
+# Data Analysis
+# Univariate Analysis
+# What is the distribution of customer ages?
+<img width="975" height="579" alt="image" src="https://github.com/user-attachments/assets/f24d0d19-8ba8-4827-b0b5-c06fdd6cda60" />
+The age distribution of the customers is skewed to the right, and the majority fall between the ages of 25 and 40. The lowest age identified is 18 years, and the highest is 92 years, portraying a wide range of customer demographics. The average number is nearly 39 years, and the histogram reveals a cluster at 30- 35 years of age. This imbalanced allocation means that the bank mainly attracts the young or middle-aged clients, compared to old clients.
 # How many customers have churned vs. stayed?
 <img width="883" height="692" alt="image" src="https://github.com/user-attachments/assets/f537b3d8-9061-4614-91f3-fb94aca43d55" />
 Out of the data, 2,038 customers have already churned ( Exited = 1) and 7,962 have remained ( Exited = 0). This implies that 20.4 percent of the customers have exited the bank and 79.6 percent have not. The behavior of this churn rate is a good place to start in modeling and the study of customer retention.
@@ -51,25 +70,7 @@ There is a maximum tenure of 10 years, and a mean tenure of about 5 years, with 
 
 
 
-Target Variable
 
-Exited: A binary variable with one being the churned and zero remaining retained.
-
-The data set presents a reliable basis for determining reasons that lead to customer churn and can be used in coming up with predictive models to help enhance retention strategies.
-
-# Stakeholders
-The individuals and groups of people affected either directly or indirectly by the effects of this customer churn analysis are as follows:
-
-Executive Team-SmartBank This group will take care of strategy formulation decisions and will employ insights on churn to come up with customer retention policies and resource deployment in terms of intervention strategies.
-
-Data Science & Analytics Unit As a senior data scientist, Li leads this team to monitor the modeling process and will use the ready data set and the results to create and implement the predictive churn model.
-
-Teams: Marketing, Customer Retention Such teams will be dependent on the output of the model to create and execute specific campaigns focused on the vulnerable categories of customers.
-# Data Analysis
-# Univariate Analysis
-# What is the distribution of customer ages?
-<img width="975" height="579" alt="image" src="https://github.com/user-attachments/assets/f24d0d19-8ba8-4827-b0b5-c06fdd6cda60" />
-The age distribution of the customers is skewed to the right, and the majority fall between the ages of 25 and 40. The lowest age identified is 18 years, and the highest is 92 years, portraying a wide range of customer demographics. The average number is nearly 39 years, and the histogram reveals a cluster at 30- 35 years of age. This imbalanced allocation means that the bank mainly attracts the young or middle-aged clients, compared to old clients.
 
 
 
