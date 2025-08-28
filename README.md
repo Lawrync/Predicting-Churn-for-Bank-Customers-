@@ -33,3 +33,8 @@ Teams: Marketing, Customer Retention Such teams will be dependent on the output 
 # Data Analysis
 # Univariate Analysis
 # What is the distribution of customer ages?
+<img width="975" height="579" alt="image" src="https://github.com/user-attachments/assets/f24d0d19-8ba8-4827-b0b5-c06fdd6cda60" />
+The age distribution of the customers is skewed to the right, and the majority fall between the ages of 25 and 40. The lowest age identified is 18 years, and the highest is 92 years, portraying a wide range of customer demographics. The average number is nearly 39 years, and the histogram reveals a cluster at 30- 35 years of age. This imbalanced allocation means that the bank mainly attracts the young or middle-aged clients, compared to old clients.
+
+
+
