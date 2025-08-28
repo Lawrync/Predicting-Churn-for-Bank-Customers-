@@ -78,6 +78,8 @@ The analysis between the quantity of products that a customer owns and the proba
 # Multivariate
 <img width="975" height="693" alt="image" src="https://github.com/user-attachments/assets/fdbed259-8a4b-4f8e-846a-a72aca237e6c" />
 In the correlation matrix, it is possible to identify some relations that exist between customer attributes and the probability of customer attrition. Interestingly, churn positively correlates with age and presence of customer complaints with moderate strength, which means that the older customers are more likely to leave, and those who raise complaints have higher probabilities to churn. Conversely, active membership and having several products are inversely related to churn, which implies that these customers are less likely to leave. Balance is weakly and positively correlated with churn, although the influence of most other numerical terms is small. The results might be used to inform specific retention activities that draw attention to older, dissatisfied, or less-engaged customers.
+# Alternative Hypothesis (H 1):
+The likelihood of churn among senior citizens is much higher compared to that of young customers.
 
 
 
