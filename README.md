@@ -1,4 +1,4 @@
-# Predicting-Churn-for-Bank-Customers-
+# Predicting-Churn-for-Bank-Customers- (Lloyds Banking Group project)
 # Introduction
 Customer churn can be a major threat to businesses that need to sustain development and competitiveness. Financial services. Often in financial services, the customer relationships are long-term and high-value, so it is key to understand the reasons why customers leave. This project would use the customer data to draw useful patterns and trends that drive the churn behavior with a view to assisting in making wiser churn strategies in SmartBank, a subsidiary of Lloyds Banking Group.
 
